@@ -19,7 +19,7 @@
 }
 
 body {
-    background: light-dark(var(--white), var(--Dark-Blue));
+    background: light-dark(var(--white), var(--Very-Dark-Blue));
 }
 
 
